@@ -1,6 +1,6 @@
 <h1>🚀 COVID_19_Analysis </h1>
 <body>
-This project built to analyze covid-19 data.\n
+This project built to analyze covid-19 data./
 Coronavirus is a family of viruses that are named after their spiky crown. The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus. This assignment aims at exploring COVID-19 through data analysis and projections.\n
 Coronavirus is a family of viruses that can cause illness, which can vary from common cold and cough to sometimes more severe disease. Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV) were such severe cases with the world already has faced.\n
 SARS-CoV-2 (n-coronavirus) is the new virus of the coronavirus family, which first discovered in 2019, which has not been identified in humans before.\n
