@@ -1,2 +1,2 @@
 # COVID_19_Analysis
-This project built 
+This project built to analyze covid-19 data.
