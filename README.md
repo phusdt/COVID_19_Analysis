@@ -1,16 +1,16 @@
 <h1>🚀 COVID_19_Analysis </h1>
 <body>
-This project built to analyze covid-19 data.
-Coronavirus is a family of viruses that are named after their spiky crown. The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus. This assignment aims at exploring COVID-19 through data analysis and projections.
-Coronavirus is a family of viruses that can cause illness, which can vary from common cold and cough to sometimes more severe disease. Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV) were such severe cases with the world already has faced.
-SARS-CoV-2 (n-coronavirus) is the new virus of the coronavirus family, which first discovered in 2019, which has not been identified in humans before.
-It is a contiguous virus which started from Wuhan in December 2019. Which later declared as Pandemic by WHO due to high rate spreads throughout the world. Currently (on the date 10 June 2020), this leads to a total of 500K+ Deaths across the globe.
+This project built to analyze covid-19 data.\n
+Coronavirus is a family of viruses that are named after their spiky crown. The novel coronavirus, also known as SARS-CoV-2, is a contagious respiratory virus that first reported in Wuhan, China. On 2/11/2020, the World Health Organization designated the name COVID-19 for the disease caused by the novel coronavirus. This assignment aims at exploring COVID-19 through data analysis and projections.\n
+Coronavirus is a family of viruses that can cause illness, which can vary from common cold and cough to sometimes more severe disease. Middle East Respiratory Syndrome (MERS-CoV) and Severe Acute Respiratory Syndrome (SARS-CoV) were such severe cases with the world already has faced.\n
+SARS-CoV-2 (n-coronavirus) is the new virus of the coronavirus family, which first discovered in 2019, which has not been identified in humans before.\n
+It is a contiguous virus which started from Wuhan in December 2019. Which later declared as Pandemic by WHO due to high rate spreads throughout the world. Currently (on the date 10 June 2020), this leads to a total of 500K+ Deaths across the globe.\n
 Pandemic is spreading all over the world; it becomes more important to understand about this spread. This NoteBook is an effort to analyze the cumulative data of confirmed, deaths, and recovered cases over time.
 <h2>📚 Why this Project?</h2>
 Pandemic is spreading all over the world; it becomes more important to understand about this spread.
 <h2>📊 Content:
   <h3>1. Global Analysis</h3>
-<body>Problem 1: Calculate the number of total cases, total deaths, total recovered, and total active by time (day units).
+<body>Problem 1: Calculate the number of total cases, total deaths, total recovered, and total active by time (day units).\
 Problem 2: Visualize the number and the log(10) of total cases, total deaths, total recovered, and total active by time (day units) in 2 graph (one for the number and the other for the log(10)) using line chart.
 Problem 3: Visualize the number of total cases, total deaths, total recovered, and total active by time (day units) in 4 separated graphs using line chart.
 Problem 4: Calculate the number of daily increases in total cases, total deaths, total recovered, and total active by time (day units).
